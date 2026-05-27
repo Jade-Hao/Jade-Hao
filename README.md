@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![alt text](Github Banner.png)
+
+
 <!--
 **Jade-Hao/Jade-Hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
