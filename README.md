@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](Github Banner.png)
+![alt text](github_banner.png)
 
 
 <!--
