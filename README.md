@@ -4,16 +4,10 @@
  - My name is **Jade Hao**, I am a **Computer Science Major with a concentration in AI** and a **Biology minor** at the **University of San Francisco**.  I enjoy exploring the intersection of software, data, and the life sciences, with interests in areas like bioinformatics, machine learning, and full-stack development.🧬💻 . Outside of coding, I’m curious about scientific discovery, emerging tech, and how interdisciplinary approaches can shape the future of healthcare and innovation ✨ .
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- R
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) , ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) , ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), as well as ***R***
 
 ### Connect with me!
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjhao@dons.usfca.edu)
-![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jade-hao-08b468357/)
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjhao@dons.usfca.edu), ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jade-hao-08b468357/)
 
 
 <!--
