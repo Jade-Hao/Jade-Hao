@@ -1,6 +1,18 @@
-## Hi there 👋
+# Hello there!
+ - My name is **Jade Hao**, I am a **Computer Science Major with a concentration in AI** and a **Biology minor** at the **University of San Francisco**.  I enjoy exploring the intersection of software, data, and the life sciences, with interests in areas like bioinformatics, machine learning, and full-stack development.
 
-![alt text](githib_banner.png)
+### Languages
+- Java
+- JavaScript
+- C / C++
+- Python
+- R
+
+### Connect with me!
+[![Email](https://shields.io)](mailto:jjhao@dons.usfca.edu)
+
+![alt text](github_banner.png)
+
 
 
 <!--
