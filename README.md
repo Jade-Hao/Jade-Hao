@@ -1,7 +1,7 @@
 ![alt text](github_banner.png)
 
 # Hello there 🦦!
- - My name is **Jade Hao**, I am a **Computer Science Major with a concentration in AI** and a **Biology minor** at the **University of San Francisco**.  I enjoy exploring the intersection of software, data, and the life sciences, with interests in areas like bioinformatics, machine learning, and full-stack development.🧬💻 . Outside of coding, I’m curious about scientific discovery, emerging tech, and how interdisciplinary approaches can shape the future of healthcare and innovation ✨ .
+ - My name is **Jade Hao**, I am a **Computer Science Major with a concentration in AI** and a **Biology minor** at the **University of San Francisco**.  I enjoy exploring the intersection of software, data, and the life sciences, with interests in areas like bioinformatics, machine learning, and full-stack development🧬💻 . Outside of coding, I’m curious about scientific discovery, emerging tech, and how interdisciplinary approaches can shape the future of healthcare and innovation ✨ .
 
 ### Languages
 
@@ -11,7 +11,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white) 
 ---
 
 ### Connect with me!
